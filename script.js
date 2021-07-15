@@ -80,6 +80,14 @@ new Vue({
           "source": "/chorus/98.What_They_Say.wav",
           "url": "https://open.spotify.com/track/3BjhE0vZA1m63x700R7vXD?si=f064a80b2b6e4e78",
           "favorited": false
+        },
+        {
+          "name": "My House",
+          "artist": "Declan McKenna",
+          "cover": "/thumbnails/myhouse.jpg",
+          "source": "/chorus/80.My_House.wav",
+          "url": "https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD?si=0f4a742ec7a543ca",
+          "favorited": false
         }
       ],
       currentTrack: null,
