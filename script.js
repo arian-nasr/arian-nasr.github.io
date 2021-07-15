@@ -33,6 +33,22 @@ new Vue({
           favorited: false
         },
         {
+          name: "That Feel",
+          artist: "Lex Leosis",
+          cover: "/thumbnails/thatfeel.jpg",
+          source: "/chorus/97.That_Feel.wav",
+          url: "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y?si=6bcb0072d8b54852",
+          favorited: false
+        },
+        {
+          name: "Piece of Work",
+          artist: "Loren Gray",
+          cover: "/thumbnails/work.jpg",
+          source: "/chorus/50.Piece_of_Work.wav",
+          url: "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y?si=6bcb0072d8b54852",
+          favorited: false
+        },
+        {
           name: "NDA",
           artist: "Billie Eilish",
           cover: "/thumbnails/nda.jpg",
