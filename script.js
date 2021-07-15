@@ -33,6 +33,22 @@ new Vue({
           favorited: false
         },
         {
+          name: "Hood Baby",
+          artist: "Supawassi, J Neat",
+          cover: "/thumbnails/hoodbaby.jpg",
+          source: "/chorus/69.Hood_Baby.wav",
+          url: "https://open.spotify.com/track/5vQ6TwJiqQn87yObnmejML?si=02fe6ca8c5f740e2",
+          favorited: false
+        },
+        {
+          name: "Get Up",
+          artist: "Logic",
+          cover: "/thumbnails/getup.jpg",
+          source: "/chorus/14.Get_Up.wav",
+          url: "https://open.spotify.com/track/4khOYw0ka3gNzYCwMurq3C?si=24b5dda0870c43a6",
+          favorited: false
+        },
+        {
           name: "That Feel",
           artist: "Lex Leosis",
           cover: "/thumbnails/thatfeel.jpg",
@@ -62,22 +78,6 @@ new Vue({
           cover: "/thumbnails/whispercanonly.jpg",
           source: "/chorus/1.I_Can_Only_Whisper_(feat._BADBADNOTGOOD).wav",
           url: "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1?si=8254f7ba02614588",
-          favorited: false
-        },
-        {
-          name: "Get Up",
-          artist: "Logic",
-          cover: "/thumbnails/getup.jpg",
-          source: "/chorus/14.Get_Up.wav",
-          url: "https://open.spotify.com/track/4khOYw0ka3gNzYCwMurq3C?si=24b5dda0870c43a6",
-          favorited: false
-        },
-        {
-          name: "Hood Baby",
-          artist: "Supawassi, J Neat",
-          cover: "/thumbnails/hoodbaby.jpg",
-          source: "/chorus/69.Hood_Baby.wav",
-          url: "https://open.spotify.com/track/5vQ6TwJiqQn87yObnmejML?si=02fe6ca8c5f740e2",
           favorited: false
         }
       ],
