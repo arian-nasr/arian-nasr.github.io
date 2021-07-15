@@ -1,10 +1,3 @@
-/*
-design by Voicu Apostol.
-design: https://dribbble.com/shots/3533847-Mini-Music-Player
-I can't find any open music api or mp3 api so i have to download all musics as mp3 file.
-You can fork on github: https://github.com/muhammederdem/mini-player
-*/
-
 new Vue({
   el: "#app",
   data() {
@@ -79,6 +72,14 @@ new Vue({
           source: "/chorus/1.I_Can_Only_Whisper_(feat._BADBADNOTGOOD).wav",
           url: "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1?si=8254f7ba02614588",
           favorited: false
+        },
+        {
+          "name": "What They Say",
+          "artist": "Dom Devino, Skilteck, Doug St-Louis, Karl Wolf",
+          "cover": "/thumbnails/whattheysay.jpg",
+          "source": "/chorus/98.What_They_Say.wav",
+          "url": "https://open.spotify.com/track/3BjhE0vZA1m63x700R7vXD?si=f064a80b2b6e4e78",
+          "favorited": false
         }
       ],
       currentTrack: null,
