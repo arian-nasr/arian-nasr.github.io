@@ -19,32 +19,32 @@ new Vue({
         {
           name: "I Can Only Whisper (feat. BADBADNOTGOOD)",
           artist: "Charlotte Day Wilson, BADBADNOTGOOD",
-          cover: "C:/Users/Arian/Music/Musify/Download/.thumb/whispercanonly.jpg",
-          source: "C:/Users/Arian/Music/Musify/Download/New_Music_Friday_Canada/chorus/1.I_Can_Only_Whisper_(feat._BADBADNOTGOOD).wav",
+          cover: "/thumbnails/whispercanonly.jpg",
+          source: "/chorus/1.I_Can_Only_Whisper_(feat._BADBADNOTGOOD).wav",
           url: "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1?si=8254f7ba02614588",
           favorited: false
         },
         {
           name: "Motley Crew",
           artist: "Post Malone",
-          cover: "C:/Users/Arian/Music/Musify/Download/.thumb/motleycrew.jpg",
-          source: "C:/Users/Arian/Music/Musify/Download/New_Music_Friday_Canada/chorus/2.Motley_Crew.wav",
+          cover: "/thumbnails/motleycrew.jpg",
+          source: "/chorus/2.Motley_Crew.wav",
           url: "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed?si=3eea07f9973542e4",
           favorited: true
         },
         {
           name: "NDA",
           artist: "Billie Eilish",
-          cover: "C:/Users/Arian/Music/Musify/Download/.thumb/nda.jpg",
-          source: "C:/Users/Arian/Music/Musify/Download/New_Music_Friday_Canada/chorus/4.NDA.wav",
+          cover: "/thumbnails/nda.jpg",
+          source: "/chorus/4.NDA.wav",
           url: "https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL?si=b71b408f41e9471e",
           favorited: false
         },
         {
           name: "Memory",
           artist: "Kane Brown, blackbear",
-          cover: "C:/Users/Arian/Music/Musify/Download/.thumb/memory.jpg",
-          source: "C:/Users/Arian/Music/Musify/Download/New_Music_Friday_Canada/chorus/13.Memory.wav",
+          cover: "/thumbnails/memory.jpg",
+          source: "/chorus/13.Memory.wav",
           url: "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y?si=6bcb0072d8b54852",
           favorited: false
         }
