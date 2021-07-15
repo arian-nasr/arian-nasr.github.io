@@ -37,7 +37,7 @@ new Vue({
           artist: "Lex Leosis",
           cover: "/thumbnails/thatfeel.jpg",
           source: "/chorus/97.That_Feel.wav",
-          url: "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y?si=6bcb0072d8b54852",
+          url: "https://open.spotify.com/track/6791eYqABRDIjIiCkr9P1m?si=c90491a0439b4292",
           favorited: false
         },
         {
@@ -45,7 +45,7 @@ new Vue({
           artist: "Loren Gray",
           cover: "/thumbnails/work.jpg",
           source: "/chorus/50.Piece_of_Work.wav",
-          url: "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y?si=6bcb0072d8b54852",
+          url: "https://open.spotify.com/track/0tLK0fFNlY43ntSpXjR8J0?si=262f32cbd29d4b19",
           favorited: false
         },
         {
