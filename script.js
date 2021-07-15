@@ -22,7 +22,7 @@ new Vue({
           cover: "/thumbnails/motleycrew.jpg",
           source: "/chorus/2.Motley_Crew.wav",
           url: "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed?si=3eea07f9973542e4",
-          favorited: true
+          favorited: false
         },
         {
           name: "Memory",
@@ -70,6 +70,14 @@ new Vue({
           cover: "/thumbnails/getup.jpg",
           source: "/chorus/14.Get_Up.wav",
           url: "https://open.spotify.com/track/4khOYw0ka3gNzYCwMurq3C?si=24b5dda0870c43a6",
+          favorited: false
+        },
+        {
+          name: "Hood Baby",
+          artist: "Supawassi, J Neat",
+          cover: "/thumbnails/hoodbaby.jpg",
+          source: "/chorus/69.Hood_Baby.wav",
+          url: "https://open.spotify.com/track/5vQ6TwJiqQn87yObnmejML?si=02fe6ca8c5f740e2",
           favorited: false
         }
       ],
