@@ -17,35 +17,19 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
+          name: "I Can Only Whisper (feat. BADBADNOTGOOD)",
+          artist: "Charlotte Day Wilson, BADBADNOTGOOD",
+          cover: "/thumbnails/whispercanonly.jpg",
+          source: "/chorus/1.I_Can_Only_Whisper_(feat._BADBADNOTGOOD).wav",
+          url: "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1?si=8254f7ba02614588",
+          favorited: false
+        },
+        {
           name: "Motley Crew",
           artist: "Post Malone",
           cover: "/thumbnails/motleycrew.jpg",
           source: "/chorus/2.Motley_Crew.wav",
           url: "https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed?si=3eea07f9973542e4",
-          favorited: true
-        },
-        {
-          name: "Memory",
-          artist: "Kane Brown, blackbear",
-          cover: "/thumbnails/memory.jpg",
-          source: "/chorus/13.Memory.wav",
-          url: "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y?si=6bcb0072d8b54852",
-          favorited: false
-        },
-        {
-          name: "That Feel",
-          artist: "Lex Leosis",
-          cover: "/thumbnails/thatfeel.jpg",
-          source: "/chorus/97.That_Feel.wav",
-          url: "https://open.spotify.com/track/6791eYqABRDIjIiCkr9P1m?si=c90491a0439b4292",
-          favorited: false
-        },
-        {
-          name: "Piece of Work",
-          artist: "Loren Gray",
-          cover: "/thumbnails/work.jpg",
-          source: "/chorus/50.Piece_of_Work.wav",
-          url: "https://open.spotify.com/track/0tLK0fFNlY43ntSpXjR8J0?si=262f32cbd29d4b19",
           favorited: false
         },
         {
@@ -57,11 +41,35 @@ new Vue({
           favorited: false
         },
         {
-          name: "I Can Only Whisper (feat. BADBADNOTGOOD)",
-          artist: "Charlotte Day Wilson, BADBADNOTGOOD",
-          cover: "/thumbnails/whispercanonly.jpg",
-          source: "/chorus/1.I_Can_Only_Whisper_(feat._BADBADNOTGOOD).wav",
-          url: "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1?si=8254f7ba02614588",
+          name: "Memory",
+          artist: "Kane Brown, blackbear",
+          cover: "/thumbnails/memory.jpg",
+          source: "/chorus/13.Memory.wav",
+          url: "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y?si=6bcb0072d8b54852",
+          favorited: false
+        },
+        {
+          name: "Stay (with Justin Bieber)",
+          artist: "The Kid LAROI, Justin Bieber",
+          cover: "/thumbnails/stay.jpg",
+          source: "/chorus/5.Stay_(with_Justin_Bieber).wav",
+          url: "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y?si=6bcb0072d8b54852",
+          favorited: false
+        },
+        {
+          name: "That Feel",
+          artist: "Lex Leosis",
+          cover: "/thumbnails/thatfeel.jpg",
+          source: "/chorus/97.That_Feel.wav",
+          url: "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y?si=6bcb0072d8b54852",
+          favorited: false
+        },
+        {
+          name: "Piece of Work",
+          artist: "Loren Gray",
+          cover: "/thumbnails/work.jpg",
+          source: "/chorus/50.Piece_of_Work.wav",
+          url: "https://open.spotify.com/track/34chhNX59Wo9HMFCsI3K8Y?si=6bcb0072d8b54852",
           favorited: false
         }
       ],
