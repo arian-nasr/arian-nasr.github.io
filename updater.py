@@ -15,5 +15,4 @@ def extract_metadata():
         audiofile = eyed3.load(filepath)
         print(audiofile.tag.artist)
 
-download_album(albumurl)
 extract_metadata()
